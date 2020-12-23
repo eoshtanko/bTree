@@ -1,0 +1,227 @@
+insert 1 1
+insert 2 2
+insert 3 3
+insert 4 4
+insert 5 5
+insert 100 100
+insert 101 101
+insert 102 102
+insert 103 103
+insert 104 104
+insert 105 105
+insert 10 10
+insert 11 11
+insert 12 12
+insert 13 13
+insert 14 14
+insert 15 15
+insert 110 110
+insert 111 111
+insert 112 112
+insert 113 113
+insert 114 114
+insert 115 115
+insert 20 20
+insert 21 21
+insert 22 22
+insert 23 23
+insert 24 24
+insert 25 25
+insert 120 120
+insert 121 121
+insert 122 122
+insert 123 123
+insert 124 124
+insert 125 125
+insert 30 30
+insert 31 31
+insert 32 32
+insert 33 33
+insert 34 34
+insert 35 35
+insert 130 130
+insert 131 131
+insert 132 132
+insert 133 133
+insert 134 134
+insert 135 135
+insert 40 40
+insert 41 41
+insert 42 42
+insert 43 43
+insert 44 44
+insert 45 45
+insert 140 140
+insert 141 141
+insert 142 142
+insert 143 143
+insert 144 144
+insert 145 145
+insert 50 50
+insert 51 51
+insert 52 52
+insert 53 53
+insert 54 54
+insert 55 55
+insert 150 150
+insert 151 151
+insert 152 152
+insert 153 153
+insert 154 154
+insert 155 155
+find 0
+find 1
+find 2
+find 3
+find 4
+find 5
+find 6
+find 7
+find 8
+find 9
+find 10
+find 11
+find 12
+find 13
+find 14
+find 15
+find 16
+find 17
+find 18
+find 19
+find 20
+find 21
+find 22
+find 23
+find 24
+find 25
+find 26
+find 27
+find 28
+find 29
+find 30
+find 31
+find 32
+find 33
+find 34
+find 35
+find 36
+find 37
+find 38
+find 39
+find 40
+find 41
+find 42
+find 43
+find 44
+find 45
+find 46
+find 47
+find 48
+find 49
+find 50
+find 51
+find 52
+find 53
+find 54
+find 55
+find 56
+find 57
+find 58
+find 59
+find 60
+find 61
+find 62
+find 63
+find 64
+find 65
+find 66
+find 67
+find 68
+find 69
+find 70
+find 71
+find 72
+find 73
+find 74
+find 75
+find 76
+find 77
+find 78
+find 79
+find 80
+find 81
+find 82
+find 83
+find 84
+find 85
+find 86
+find 87
+find 88
+find 89
+find 90
+find 91
+find 92
+find 93
+find 94
+find 95
+find 96
+find 97
+find 98
+find 99
+find 100
+find 101
+find 102
+find 103
+find 104
+find 105
+find 106
+find 107
+find 108
+find 109
+find 110
+find 111
+find 112
+find 113
+find 114
+find 115
+find 116
+find 117
+find 118
+find 119
+find 120
+find 121
+find 122
+find 123
+find 124
+find 125
+find 126
+find 127
+find 128
+find 129
+find 130
+find 131
+find 132
+find 133
+find 134
+find 135
+find 136
+find 137
+find 138
+find 139
+find 140
+find 141
+find 142
+find 143
+find 144
+find 145
+find 146
+find 147
+find 148
+find 149
+find 150
+find 151
+find 152
+find 153
+find 154
+find 155

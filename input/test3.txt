@@ -1,0 +1,502 @@
+insert 100 100
+insert -100 -100
+insert 101 101
+insert -101 -101
+insert 102 102
+insert -102 -102
+insert 103 103
+insert -103 -103
+insert 104 104
+insert -104 -104
+insert 105 105
+insert -105 -105
+insert 106 106
+insert -106 -106
+insert 107 107
+insert -107 -107
+insert 108 108
+insert -108 -108
+insert 109 109
+insert -109 -109
+insert 110 110
+insert -110 -110
+insert 111 111
+insert -111 -111
+insert 112 112
+insert -112 -112
+insert 113 113
+insert -113 -113
+insert 114 114
+insert -114 -114
+insert 115 115
+insert -115 -115
+insert 116 116
+insert -116 -116
+insert 117 117
+insert -117 -117
+insert 118 118
+insert -118 -118
+insert 119 119
+insert -119 -119
+insert 120 120
+insert -120 -120
+insert 121 121
+insert -121 -121
+insert 122 122
+insert -122 -122
+insert 123 123
+insert -123 -123
+insert 124 124
+insert -124 -124
+insert 125 125
+insert -125 -125
+insert 126 126
+insert -126 -126
+insert 127 127
+insert -127 -127
+insert 128 128
+insert -128 -128
+insert 129 129
+insert -129 -129
+insert 130 130
+insert -130 -130
+insert 131 131
+insert -131 -131
+insert 132 132
+insert -132 -132
+insert 133 133
+insert -133 -133
+insert 134 134
+insert -134 -134
+insert 135 135
+insert -135 -135
+insert 136 136
+insert -136 -136
+insert 137 137
+insert -137 -137
+insert 138 138
+insert -138 -138
+insert 139 139
+insert -139 -139
+insert 140 140
+insert -140 -140
+insert 141 141
+insert -141 -141
+insert 142 142
+insert -142 -142
+insert 143 143
+insert -143 -143
+insert 144 144
+insert -144 -144
+insert 145 145
+insert -145 -145
+insert 146 146
+insert -146 -146
+insert 147 147
+insert -147 -147
+insert 148 148
+insert -148 -148
+insert 149 149
+insert -149 -149
+insert 150 150
+insert -150 -150
+insert 151 151
+insert -151 -151
+insert 152 152
+insert -152 -152
+insert 153 153
+insert -153 -153
+insert 154 154
+insert -154 -154
+insert 155 155
+insert -155 -155
+insert 156 156
+insert -156 -156
+insert 157 157
+insert -157 -157
+insert 158 158
+insert -158 -158
+insert 159 159
+insert -159 -159
+insert 160 160
+insert -160 -160
+insert 161 161
+insert -161 -161
+insert 162 162
+insert -162 -162
+insert 163 163
+insert -163 -163
+insert 164 164
+insert -164 -164
+insert 165 165
+insert -165 -165
+insert 166 166
+insert -166 -166
+insert 167 167
+insert -167 -167
+insert 168 168
+insert -168 -168
+insert 169 169
+insert -169 -169
+insert 170 170
+insert -170 -170
+insert 171 171
+insert -171 -171
+insert 172 172
+insert -172 -172
+insert 173 173
+insert -173 -173
+insert 174 174
+insert -174 -174
+insert 175 175
+insert -175 -175
+insert 176 176
+insert -176 -176
+insert 177 177
+insert -177 -177
+insert 178 178
+insert -178 -178
+insert 179 179
+insert -179 -179
+insert 180 180
+insert -180 -180
+insert 181 181
+insert -181 -181
+insert 182 182
+insert -182 -182
+insert 183 183
+insert -183 -183
+insert 184 184
+insert -184 -184
+insert 185 185
+insert -185 -185
+insert 186 186
+insert -186 -186
+insert 187 187
+insert -187 -187
+insert 188 188
+insert -188 -188
+insert 189 189
+insert -189 -189
+insert 190 190
+insert -190 -190
+insert 191 191
+insert -191 -191
+insert 192 192
+insert -192 -192
+insert 193 193
+insert -193 -193
+insert 194 194
+insert -194 -194
+insert 195 195
+insert -195 -195
+insert 196 196
+insert -196 -196
+insert 197 197
+insert -197 -197
+insert 198 198
+insert -198 -198
+insert 199 199
+insert -199 -199
+delete 100
+delete -100
+delete 101
+delete -101
+delete 102
+delete -102
+delete 103
+delete -103
+delete 104
+delete -104
+delete 105
+delete -105
+delete 106
+delete -106
+delete 107
+delete -107
+delete 108
+delete -108
+delete 109
+delete -109
+delete 110
+delete -110
+delete 111
+delete -111
+delete 112
+delete -112
+delete 113
+delete -113
+delete 114
+delete -114
+delete 115
+delete -115
+delete 116
+delete -116
+delete 117
+delete -117
+delete 118
+delete -118
+delete 119
+delete -119
+delete 120
+delete -120
+delete 121
+delete -121
+delete 122
+delete -122
+delete 123
+delete -123
+delete 124
+delete -124
+delete 125
+delete -125
+delete 126
+delete -126
+delete 127
+delete -127
+delete 128
+delete -128
+delete 129
+delete -129
+delete 130
+delete -130
+delete 131
+delete -131
+delete 132
+delete -132
+delete 133
+delete -133
+delete 134
+delete -134
+delete 135
+delete -135
+delete 136
+delete -136
+delete 137
+delete -137
+delete 138
+delete -138
+delete 139
+delete -139
+delete 140
+delete -140
+delete 141
+delete -141
+delete 142
+delete -142
+delete 143
+delete -143
+delete 144
+delete -144
+delete 145
+delete -145
+delete 146
+delete -146
+delete 147
+delete -147
+delete 148
+delete -148
+delete 149
+delete -149
+delete 150
+delete -150
+insert 199 199
+insert -199 -199
+insert 198 198
+insert -198 -198
+insert 197 197
+insert -197 -197
+insert 196 196
+insert -196 -196
+insert 195 195
+insert -195 -195
+insert 194 194
+insert -194 -194
+insert 193 193
+insert -193 -193
+insert 192 192
+insert -192 -192
+insert 191 191
+insert -191 -191
+insert 190 190
+insert -190 -190
+insert 189 189
+insert -189 -189
+insert 188 188
+insert -188 -188
+insert 187 187
+insert -187 -187
+insert 186 186
+insert -186 -186
+insert 185 185
+insert -185 -185
+insert 184 184
+insert -184 -184
+insert 183 183
+insert -183 -183
+insert 182 182
+insert -182 -182
+insert 181 181
+insert -181 -181
+insert 180 180
+insert -180 -180
+insert 179 179
+insert -179 -179
+insert 178 178
+insert -178 -178
+insert 177 177
+insert -177 -177
+insert 176 176
+insert -176 -176
+insert 175 175
+insert -175 -175
+insert 174 174
+insert -174 -174
+insert 173 173
+insert -173 -173
+insert 172 172
+insert -172 -172
+insert 171 171
+insert -171 -171
+insert 170 170
+insert -170 -170
+insert 169 169
+insert -169 -169
+insert 168 168
+insert -168 -168
+insert 167 167
+insert -167 -167
+insert 166 166
+insert -166 -166
+insert 165 165
+insert -165 -165
+insert 164 164
+insert -164 -164
+insert 163 163
+insert -163 -163
+insert 162 162
+insert -162 -162
+insert 161 161
+insert -161 -161
+insert 160 160
+insert -160 -160
+insert 159 159
+insert -159 -159
+insert 158 158
+insert -158 -158
+insert 157 157
+insert -157 -157
+insert 156 156
+insert -156 -156
+insert 155 155
+insert -155 -155
+insert 154 154
+insert -154 -154
+insert 153 153
+insert -153 -153
+insert 152 152
+insert -152 -152
+insert 151 151
+insert -151 -151
+insert 150 150
+insert -150 -150
+insert 149 149
+insert -149 -149
+insert 148 148
+insert -148 -148
+insert 147 147
+insert -147 -147
+insert 146 146
+insert -146 -146
+insert 145 145
+insert -145 -145
+insert 144 144
+insert -144 -144
+insert 143 143
+insert -143 -143
+insert 142 142
+insert -142 -142
+insert 141 141
+insert -141 -141
+insert 140 140
+insert -140 -140
+insert 139 139
+insert -139 -139
+insert 138 138
+insert -138 -138
+insert 137 137
+insert -137 -137
+insert 136 136
+insert -136 -136
+insert 135 135
+insert -135 -135
+insert 134 134
+insert -134 -134
+insert 133 133
+insert -133 -133
+insert 132 132
+insert -132 -132
+insert 131 131
+insert -131 -131
+insert 130 130
+insert -130 -130
+insert 129 129
+insert -129 -129
+insert 128 128
+insert -128 -128
+insert 127 127
+insert -127 -127
+insert 126 126
+insert -126 -126
+insert 125 125
+insert -125 -125
+insert 124 124
+insert -124 -124
+insert 123 123
+insert -123 -123
+insert 122 122
+insert -122 -122
+insert 121 121
+insert -121 -121
+insert 120 120
+insert -120 -120
+insert 119 119
+insert -119 -119
+insert 118 118
+insert -118 -118
+insert 117 117
+insert -117 -117
+insert 116 116
+insert -116 -116
+insert 115 115
+insert -115 -115
+insert 114 114
+insert -114 -114
+insert 113 113
+insert -113 -113
+insert 112 112
+insert -112 -112
+insert 111 111
+insert -111 -111
+insert 110 110
+insert -110 -110
+insert 109 109
+insert -109 -109
+insert 108 108
+insert -108 -108
+insert 107 107
+insert -107 -107
+insert 106 106
+insert -106 -106
+insert 105 105
+insert -105 -105
+insert 104 104
+insert -104 -104
+insert 103 103
+insert -103 -103
+insert 102 102
+insert -102 -102
+insert 101 101
+insert -101 -101
+insert 100 100
+insert -100 -100

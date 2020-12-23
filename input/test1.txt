@@ -1,0 +1,9 @@
+find 0
+delete 0
+insert 0 0
+find 0
+insert 0 0
+find 0
+delete 0
+find 0
+insert 0 0
